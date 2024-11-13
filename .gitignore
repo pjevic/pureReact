@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build Directories
+dist/
+build/
+
+# Logs
+logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+
+# IDE Specific
+.idea/
+.vscode/
+
+# Operating System Files
+.DS_Store  
